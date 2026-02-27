@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manon</h1>
-<h3 align="center">A junior web developer from France</h3>
-
-- 🔭 I’m currently working on **finding a job!**
+<h3 align="center">A fullstack web developer from France</h3>
 
 - 🌱 I’m currently learning **React**
 
